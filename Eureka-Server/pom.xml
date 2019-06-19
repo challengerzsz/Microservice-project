@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.xiyou3g</groupId>
-    <artifactId>xiyou3g-eureka</artifactId>
+    <artifactId>xiyou3g-eureka-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>xiyou3g-eureka</name>
+    <name>xiyou3g-eureka-server</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
